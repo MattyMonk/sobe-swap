@@ -1,6 +1,6 @@
-# Serum DEX UI
+# SoBeSwap UI
 
-An implementation of a UI for the Serum DEX.
+An implementation of a UI for the SoBeSwap.
 
 ### Running the UI
 

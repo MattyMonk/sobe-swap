@@ -84,7 +84,7 @@ function TradePageInner() {
   });
 
   useEffect(() => {
-    document.title = marketName ? `${marketName} — SoBeSwap` : 'SoBeSwap';
+    document.title = marketName ? `${marketName} — SoBe Swap` : 'SoBe Swap';
   }, [marketName]);
 
   const changeOrderRef = useRef<
